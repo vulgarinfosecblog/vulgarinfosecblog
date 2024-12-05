@@ -4,6 +4,8 @@ title: Using Github Actions as a SOAR Because You're Broke - Part 1
 categories: FrankenSOAR
 ---
 
+BACKGROUND (I kind of started this and kept going, feel free to skip the history lesson if you'd like. Alternatively, read it and actually fucking learn something for once.)
+
 Under immense threat from Russian attack, Ukrainian defenses have had to make some rather strange improvisations and eastern slav blyatgenieering in an attempt to stave off the enemy. To me, the premier example of redneck ingenuity has been christened 'FrankenSAM'. With some variation, a surface-to-air-missile-guided air defense system has the following components- the air defense radar (which scans the sky for incoming threats), the missile carrier (often a mobile vehicle for survivability), and the guided missiles themselves.
 
 The Soviet Union, due to its immense dysfunction, quickly fell behind the West (namely the United States) in military technology during the Cold War, in almost all aspects. Retarded tankies and Russian bots on reddit do try to claim that some Soviet systems throughout the Cold War reached, or even surpassed, technology parity with Western systems. This claim is not completely without merit- the MiG-15 was definitely competitive in the skies of Korea against its US rival, the F-86 Sabre. However, the West quickly gained a technological upper-hand (particularly in regards to Aircraft/Radar) and maintained it for the rest of the Cold War and beyond. 
