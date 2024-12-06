@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### whoami
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Fuck whoami's. Do you seriously think I want to give the internet any more clues to my identity then I've already given? Have you seen what I write on this blog? I'm not tying this back to my professional identity. This isn't a nice, professional blog to bolt onto my resume, in case you haven't noticed. I work in Infosec. The situtation is fucked. That's all you need to know.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vulgarguyblog@gmail.com](mailto:vulgarguyblog@gmail.com)
