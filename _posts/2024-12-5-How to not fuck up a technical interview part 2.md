@@ -23,15 +23,15 @@ Let's get deeper than Ron Jeremy on these topics, so you fuckers can respond to 
 
 1. EMAIL SECURITY
 
-	Jesus. Mary. And Joseph. I won't repeat my aside above, but suffice to say that candidates get blindsided like Eric Lindros when you ask them about email. Most candidates are somewhat able to identify malicious content based on the body or attachments of an email. Great. You passed L1 SOC basics. I expect an infosec analyst worth their salt to understand more than that.
+Jesus. Mary. And Joseph. I won't repeat my aside above, but suffice to say that candidates get blindsided like Eric Lindros when you ask them about email. Most candidates are somewhat able to identify malicious content based on the body or attachments of an email. Great. You passed L1 SOC basics. I expect an infosec analyst worth their salt to understand more than that.
 
-	1A. EMAIL HEADERS
+1A. EMAIL HEADERS
 
-		Do people even know what email headers are? Just knowing what these are, and vaguely what they mean will make you a much stronger SOC/Security analyst candidate. Email headers are metadata. If you don't know what metadata is, fuck off back to school. If you're a SOC analyst who has no fucking clue about email headers, either whoever taught you to do SOC is a fucking moron, or you suck at your job. Or both.
+Do people even know what email headers are? Just knowing what these are, and vaguely what they mean will make you a much stronger SOC/Security analyst candidate. Email headers are metadata. If you don't know what metadata is, fuck off back to school. If you're a SOC analyst who has no fucking clue about email headers, either whoever taught you to do SOC is a fucking moron, or you suck at your job. Or both.
 
-	1B. AUTHENTICATION FRAMEWORKS
+1B. AUTHENTICATION FRAMEWORKS
 
-		SPF, DMARC, DKIM (among others, these are the 3 I ever hear about). These are good to know. Not all organizations have email authentication deployed to the degree they'd like, so the importance of these isn't always paramount. Often candidates don't even know these acronyms, or have a general idea where they fit in the technology stack. This isn't rocket science, fucking figure it out people.
+SPF, DMARC, DKIM (among others, these are the 3 I ever hear about). These are good to know. Not all organizations have email authentication deployed to the degree they'd like, so the importance of these isn't always paramount. Often candidates don't even know these acronyms, or have a general idea where they fit in the technology stack. This isn't rocket science, fucking figure it out people.
 
 
 2. INCIDENT RESPONSE
